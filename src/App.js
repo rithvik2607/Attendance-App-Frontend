@@ -1,13 +1,11 @@
 import React from 'react';
-import Loader from './components/LoaderCompnonent';
-import ScanPage from './components/ScanPageComponent';
+import Main from './components/MainComponent';
 import './App.css';
 
 function App() {
   return (
     <div>
-      {/* <Loader /> */}
-      <ScanPage />
+      <Main />
     </div>
   );
 }

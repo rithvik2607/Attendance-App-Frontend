@@ -2,7 +2,7 @@ import React from 'react';
 
 function Loader() {
   return(
-    <div className="container mx-auto">
+    <div>
       <div className="align-middle pt-64 pb-64">
         <h1 className="text-4xl textColor font-bold text-center">Attendance</h1>
       </div>

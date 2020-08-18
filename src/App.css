@@ -22,3 +22,8 @@ html {
   background: #FFFFFF;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.25);
 }
+
+.sectionNav {
+  background: #FFFFFF;
+  box-shadow: 0px -4px 15px rgba(0, 0, 0, 0.1);
+}
