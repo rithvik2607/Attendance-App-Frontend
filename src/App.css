@@ -15,8 +15,10 @@ html {
 }
 
 .selected {
-  border-bottom-width: 1.5px;
+  border-bottom-width: 2px;
   border-bottom-color: #201E50;
+  transition-property: transform;
+  transition: .5s ease-in-out;
 }
 
 .textColor {
